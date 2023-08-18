@@ -1,0 +1,7 @@
+APPID = aafc08b
+APPKEY = e7954ea5be3ae8e1171bb23c451f1db2
+BASICTOKEN = c2hpdGlrYW50aGE6U2hpdGlrYW50aGFAMTE
+PASSWORD = Shitikantha@11
+PYTHONUNBUFFERED = 1
+SHEETENDPOINT = https://api.sheety.co/1b18138c7e7fdeda7a23fc1835a8d2bd/shitikanthaWorkouts/workouts
+USERNAME = shitikantha
